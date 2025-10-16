@@ -1,73 +1,45 @@
-# Welcome to your Lovable project
+# Welcome to AI_chatwise
 
-## Project info
+## Project Info
 
-**URL**: https://lovable.dev/projects/e07156c7-c983-4322-bc8b-aef12e59b5e9
+AI_chatwise is an AI-powered chatbot application designed to provide intelligent, interactive conversations. This project is deployed on Vercel for seamless hosting and scalability.
 
-## How can I edit this code?
+**Repository**: [AI_chatwise on GitHub](https://github.com/Brian2525koech/AI_chatwise)
 
-There are several ways of editing your application.
+## About AI_chatwise
 
-**Use Lovable**
+AI_chatwise leverages cutting-edge AI technologies to deliver a responsive and engaging chatbot experience. Built with modern web development tools, it offers a sleek interface and robust functionality for users to interact with an AI-driven conversational agent.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/e07156c7-c983-4322-bc8b-aef12e59b5e9) and start prompting.
+## How to Use AI_chatwise
 
-Changes made via Lovable will be committed automatically to this repo.
+### Accessing the Chatbot
+- Visit the deployed application on Vercel (replace with your actual Vercel URL once deployed: `https://your-app-name.vercel.app`).
+- Start typing in the chat interface to interact with the AI chatbot.
+- The chatbot responds to a wide range of questions and prompts, providing helpful and context-aware answers.
 
-**Use your preferred IDE**
+### Features
+- **AI-Powered Responses**: Utilizes advanced natural language processing for intelligent and coherent replies.
+- **User-Friendly Interface**: Built with a modern, responsive design for seamless interaction on any device.
+- **Customizable**: Easily extendable for additional features or integrations.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## How Can I Edit This Code?
+
+There are several ways to contribute to or modify the AI_chatwise codebase.
+
+### Use Your Preferred IDE
+
+To work locally using your own IDE, clone this repo and push changes.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 Follow these steps:
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Step 1: Clone the repository.
+git clone https://github.com/Brian2525koech/AI_chatwise.git
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd AI_chatwise/project
 
 # Step 3: Install the necessary dependencies.
 npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/e07156c7-c983-4322-bc8b-aef12e59b5e9) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
